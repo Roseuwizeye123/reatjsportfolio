@@ -1,9 +1,9 @@
 import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
-import project1 from "../assets/images/project-1.png";
-import project2 from "../assets/images/project-2.jpg";
-import project3 from "../assets/images/project-3.jpg";
-import project4 from "../assets/images/project-4.jpg";
+import project1 from "../assets/images/picbrarti.png";
+import project2 from "../assets/images/portifolio.png";
+import project3 from "../assets/images/rose.png";
+import project4 from "../assets/images/agecalc.png";
 import project5 from "../assets/images/project-5.png";
 import project_person from "../assets/images/Defancee(14).jpg";
 import "swiper/css";
@@ -14,28 +14,28 @@ const Project = () => {
   const projects = [
     {
       img: project1,
-      name: "Movie App",
-      github_link: "https://github.com/Sridhar-C-25",
-      live_link: "https://myreactflix.netlify.app",
+      name: "BR Architecture",
+      github_link: "https://github.com/Roseuwizeye123/BR-ARCHITECTSPROJECT.git",
+      live_link: "https://roseuwizeye123.github.io/BR-ARCHITECTSPROJECT/",
     },
     {
       img: project2,
-      name: "Job search Web App",
-      github_link: "https://github.com/Sridhar-C-25/jobsearchapp",
-      live_link: "https://myjobsearch.netlify.app",
+      name: "My personal portfolio",
+      github_link: "https://github.com/Roseuwizeye123/tailwindportfolio",
+      live_link: "https://roseuwizeye123.github.io/tailwindportfolio/",
     },
     {
       img: project3,
-      name: "Highking",
-      github_link: "https://github.com/Sridhar-C-25/highking",
-      live_link: "https://highking01.netlify.app",
+      name: "my first portfolio",
+      github_link: "https://github.com/Roseuwizeye123/mypersonalportfolio",
+      live_link: "https://roseuwizeye123.github.io/mypersonalportfolio/",
     },
     {
       img: project4,
-      name: "React Nav",
+      name: "Age calculator",
       github_link:
-        "https://github.com/Sridhar-C-25/reacttailwindnavbar-with-dropdown",
-      live_link: "https://reacttailwindnavbar.netlify.app",
+        "https://github.com/Roseuwizeye123/age-calculator",
+      live_link: "https://reacttailwindnavbar.netlify.apphttps://github.com/Roseuwizeye123/age-calculator",
     },
     {
       img: project5,

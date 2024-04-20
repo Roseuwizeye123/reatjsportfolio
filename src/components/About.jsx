@@ -17,10 +17,9 @@ const About = () => {
           <div className="p-2">
             <div className="text-gray-300 my-3">
               <p className="text-justify leading-7 w-11/12 mx-auto">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa
-                eos, quam vel quisquam, explicabo sit labore dignissimos optio
-                ratione quibusdam doloribus pariatur consequuntur sint.
-                Reprehenderit cupiditate possimus facere quasi voluptatem?
+                 I design and build digital products. I'm also a multi-disciplinary
+            maker with over 3 years of experiences in wide range of design
+            disciplines.
               </p>
               <div className="flex mt-10 items-center gap-7">
                 {info.map((content) => (
@@ -35,7 +34,7 @@ const About = () => {
               </div>
               <br />
               <br />
-              <a href="./src/assets/Code_a_program.pdf" download>
+              <a href="./src/assets/uwizeyimanacv.pdf" download>
                 <button className="btn-primary">Download CV</button>
               </a>
             </div>

@@ -15,6 +15,7 @@ const Hireme = () => {
             Do you want any work from me?
           </h2>
           <p className="lg:text-left text-justify max-w-lg text-sm mt-4 text-gray-200 leading-6">
+            with over 3 years of experience on web design and development. 
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis dicta
             soluta quos tempore eos accusamus cupiditate, amet in similique
             sapiente obcaecati odio deleniti architecto corporis ratione.
